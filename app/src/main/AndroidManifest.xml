@@ -18,6 +18,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.myjetpack.viewmodeldemo.NumActivity" />
+        <activity android:name="com.example.myjetpack.viewmodeldemo.ShareActivity" />
+        <activity android:name="com.example.myjetpack.viewmodeldemo.NameActivity" />
+        <activity android:name="com.example.myjetpack.databinding.DataBindingActivity" />
+        <activity android:name="com.example.myjetpack.lificycle.LifecycleActivity" />
+        <activity android:name="com.example.myjetpack.room.RoomActivtiy" />
     </application>
 
 </manifest>
